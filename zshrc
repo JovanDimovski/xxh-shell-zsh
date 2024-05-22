@@ -37,3 +37,5 @@ done
 setopt -o nomatch
 
 cd ~
+
+source ~/.zshrc
